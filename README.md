@@ -6,7 +6,9 @@
 
 # *Workflow*
 
-![workflow_corr_ocr_ren](/home/ljudmila/Bureau/corr_OCR_NER/workflow_corr_ocr_ren.jpg)
+<picture>
+  <img alt="Image Alt Text" src="workflow_corr_ocr_ren.jpg">
+</picture>
 
 - Pour retirer les lignes vides après l’extraction du texte brut à partir de la balise `<body>` :
 
