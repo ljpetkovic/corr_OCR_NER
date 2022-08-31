@@ -2,7 +2,7 @@
 
 - AF
 
-[![](./corr_ocr_ren.jpg)](#)
+[![](./workflow_ocr_ren.jpg)](#)
 
 <a href="#"><img src="./workflow_ocr_ren.jpg" /></a>
 
