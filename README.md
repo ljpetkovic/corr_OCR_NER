@@ -2,9 +2,7 @@
 
 - AF
 
-[![](./workflow_ocr_ren.jpg)](#)
-
-<a href="#"><img src="./workflow_ocr_ren.jpg" /></a>
+<img align="left" src="workflow_corr_ocr_ren.jpg" width=200 > ![](workflow_corr_ocr_ren.jpg) 
 
 # *Workflow*
 
