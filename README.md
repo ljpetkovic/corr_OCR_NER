@@ -2,7 +2,7 @@
 
 - AF
 
- ![img](./workflow_corr_ocr_ren.jpg) 
+ ![img](img/workflow_corr_ocr_ren.jpg) 
 
 # *Workflow*
 
