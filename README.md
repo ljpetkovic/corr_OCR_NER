@@ -2,11 +2,11 @@
 
 - AF
 
-
+![img](/home/ljudmila/Bureau/corr_OCR_NER/corr_ocr_ren.jpg)
 
 # *Workflow*
 
-[![](workflow_corr_ocr_ren.jpg)](#)
+
 
 
 
