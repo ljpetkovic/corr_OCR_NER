@@ -4,7 +4,7 @@
 
 [![](./corr_ocr_ren.jpg)](#)
 
-<a href="#"><img src="./corr_ocr_ren.jpg" /></a>
+<a href="#"><img src="./workflow_ocr_ren.jpg" /></a>
 
 # *Workflow*
 
