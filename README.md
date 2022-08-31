@@ -2,7 +2,7 @@
 
 - AF
 
-![img](/home/ljudmila/Bureau/corr_OCR_NER/corr_ocr_ren.jpg)
+![img](./corr_ocr_ren.jpg)
 
 # *Workflow*
 
