@@ -1,4 +1,0 @@
-En exploitant trois modèles (petit, moyen et grand) de la librairie spacy pour la REN français, implémentés dans l’application Toolbox (Cordova et al., 2022), il s’est pourtant avéré que la structuration mal formée de certains fichiers a empêché la bonne exécution du programme REN, raison pour laquelle nous avons réduit le nombre de fichiers échantillonnés à 111.
-
-Échantillon TGB: 244 + 212 + 230 = 686 fichiers en total (115 + 88 + 92,5 Mo = 295,5 Mo)
-
