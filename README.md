@@ -2,14 +2,18 @@
 
 Ce dépôt répertorie les données et les script pour l'évaluation de l'impact de la correction automatique du texte océrisé sur la tâche de reconnaissance d'entités nommées dans un corpus bruité.
 
-# ## *Workflow*
+## *Workflow*
 
 <p align="center">
   <img src="img/workflow_corr_ocr_ren.jpg">
 </p> 
 ## Remerciements
 
-Data prepared and models trained by Claire Jahan with the help of Simon Gabay, as part of the [_E-ditiones_](https://github.com/e-ditiones) project.
+Les données issues du projet TGB (*Très Grande Bibliothèque*) sont fournies grâce à Motasem Alrahabi. 
+
+Merci également à Motasem Alrahabi et à Glenn Roe pour leur encadrement et leur aide précieuse sur la problématisation de la recherche de ce travail.
+
+
 
 ## Contact
 Ljudmila PETKOVIC : ljudmila.petkovic[at]etu.sorbonne-universite.fr
@@ -18,7 +22,7 @@ Motasem ALRAHABI : motasem.alrahabi[at]sorbonne-universite.fr
 
 Glenn ROE : glenn.roe[at]sorbonne-universite.fr
 
-## Cite this dataset
+## Citer ce dataset
 Ljudmila Petkovic, Motasem Alrahabi & Glenn Roe - *corr_OCR_NER : Impact de la correction automatique d'OCR sur la REN*, 2022, Paris : Sorbonne Université | ObTIC https://github.com/ljpetkovic/corr_OCR_NER.
 
 ## Licence
