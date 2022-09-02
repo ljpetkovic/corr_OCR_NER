@@ -9,6 +9,13 @@ Ce dépôt répertorie les données et les script pour l'évaluation de l'impact
 </p> 
 
 
+## Données
+
+* `test` : les fichiers XML-TEI sources
+* `txt_non_corr` : un fichier texte brut extrait à partir de la balise `<body>` des fichiers `test` 
+* `csv_non_corr` : les tableurs répertoriant les EN avant la correction d'OCR
+* `csv_corr` : les tableurs répertoriant les EN après la correction d'OCR
+
 ## Remerciements
 
 Les données issues du projet TGB (*Très Grande Bibliothèque*) sont fournies grâce à Motasem Alrahabi. 
