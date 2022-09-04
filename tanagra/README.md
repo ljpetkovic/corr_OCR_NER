@@ -4,8 +4,14 @@ Les EN avant et après la correction post-OCR sont visualisées dans le logiciel
 
 * Avant la correction
 
-  ![map_non_corr](/home/ljudmila/Bureau/corr_OCR_NER/img/map_non_corr.png)
+  <p align="center">
+    <img src="img/map_non_corr.png">
+  </p> 
 
 * Après la correction
 
-  ![map_corr](/home/ljudmila/Bureau/corr_OCR_NER/img/map_corr.png)
+  <p align="center">
+    <img src="img/map_corr.png">
+  </p> 
+
+  
