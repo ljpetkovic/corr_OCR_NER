@@ -39,11 +39,11 @@ Ce dépôt répertorie les données et les scripts pour l'évaluation de l'impac
 │     ├── jamspell_xml_txt.ipynb
 ├── tanagra
 │     ├── corr
-|     |	    ├── EN_corr_lg_9.txt
-|     |	    ├── tanagra_corr.csv
+|     |	 ├── EN_corr_lg_9.txt
+|     |	 ├── tanagra_corr.csv
 │     ├── non_corr
-|     |	    ├── EN_non_corr_lg_9.txt
-|     |	    ├── tanagra_non_corr.csv
+|     |	 ├── EN_non_corr_lg_9.txt
+|     |	 ├── tanagra_non_corr.csv
 │     ├── README.md
 ├── test
 │     ├── 5401000_r.xml
